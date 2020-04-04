@@ -18,6 +18,7 @@ Using AirBnB data from Copenhagen I will try to answer the following 3+ question
 * **.gitignore** - file specifying what types of files not to include in the repository
 * **README.md** - this file
 * **Copenhagen_AirBnB.ipynb** - project notebook
+* **Copenhagen_AirBnB_compliant.ipynb** - project notebook after review with verbose Markdown comments (and all the possible CRISP-DM etc. sections left and right)
 
 ## Data
 The data used is AirBnB data from Copenhagen, Denmark. 
