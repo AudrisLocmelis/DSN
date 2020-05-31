@@ -1,5 +1,8 @@
 # Disaster Response Pipeline Project
 
+### Summary:
+This is an interactive app for classifying a message text into several disaster response categories. The classification model is trained on _Figure Eight_ disaster response data.
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -12,3 +15,7 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+### App screenshot preview
+![screenshot.png](https://github.com/AudrisLocmelis/DSN/blob/master/disaster_response_app/assets/screenshot.png)
