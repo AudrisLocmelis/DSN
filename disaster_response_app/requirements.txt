@@ -1,4 +1,4 @@
-Flask==0.12.4
+Flask==1.0
 numpy==1.12.1
 nltk==3.2.5
 SQLAlchemy==1.2.18
