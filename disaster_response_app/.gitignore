@@ -6,8 +6,6 @@ models/*.pkl
 # Databese
 data/*.db
 
-# Data files
-data/*.csv
 
 
 # GENERAL LAUNDRY LIST
